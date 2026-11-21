@@ -13,7 +13,7 @@ Aplicación de escritorio hecha con Python y Flet para visualizar cómo se ejecu
 
 ### Procesos listos para ejecutar
 
-![Tres procesos de ejemplo en la tabla de entrada del simulador FIFO](docs/capturas/procesos.jpg)
+![Tres procesos de ejemplo en la tabla de entrada del simulador FIFO](docs/capturas/procesos.png)
 
 ### Simulación en curso
 
